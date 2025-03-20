@@ -13,3 +13,16 @@ Introduction, Exceptions, Generics, Collections, Lambda Expressions and Function
 - Re-Throwing Exceptions
 - Custom Exceptions
 - Chaining Exceptions
+
+# Section: 2 - Generics
+- The Need for Generics
+- A Poor Solution
+- Generics Classes
+- Generics and Primitive Types
+- Constraints
+- Type Erasure
+- Comparable Interface
+- Generic Methods
+- Multiple Type Parameters
+- Generic Classes and Inheritance
+- Wildcards
